@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><APIProxy name="MavenPlugin-Test" revision="1">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1461577127892</CreatedAt>
+    <CreatedBy>defaultUser</CreatedBy>
+    <Description>GURUDATT git revision unknown priya</Description>
+    <DisplayName>MavenPlugin-Test</DisplayName>
+    <LastModifiedAt>1461577127892</LastModifiedAt>
+    <LastModifiedBy>defaultUser</LastModifiedBy>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
